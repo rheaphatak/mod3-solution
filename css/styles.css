@@ -1,0 +1,49 @@
+#header-nav {
+    background-color: grey;
+    border-radius: 0;
+    border: 0;
+    height: 125px;
+    margin-bottom: -10px;
+}
+
+.navbar-brand h1 {
+    margin-right: 0px;
+    color: black;
+    font-weight: bold;
+}
+
+
+#main-content h2 {
+    margin-top:50px;
+    font-weight: bold;
+}
+
+
+.navbar-header button.navbar-toggle {
+    margin-top: 50px;
+}
+
+
+#nav-list li{
+    font-size: 1.1em;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}
+
+
+#chicken-info {
+    height: 1000px;
+    background-color: gray;
+    
+    padding: 20px;
+    margin-top: 15px;
+}
+
+
+
+#chicken-info section:nth-child(1) {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+}
